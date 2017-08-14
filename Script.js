@@ -8,6 +8,7 @@ do {
         alert("Miles is " + userinput1 * 0.62137119);
 
         let answer = prompt("Would you like to try again?, type in KM or Miles", "KM")
+        wow
         KM = answer
 
     } else if (userinput === Miles) {
